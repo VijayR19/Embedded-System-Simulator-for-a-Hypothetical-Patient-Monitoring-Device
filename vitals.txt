@@ -1,0 +1,3 @@
+Resting - Heart Rate: 60, Body Temperature: 36.4, Oxygen Saturation: 98
+Exercising - Heart Rate: 172, Body Temperature: 38, Oxygen Saturation: 91
+Resting - Heart Rate: 76, Body Temperature: 36.7, Oxygen Saturation: 95
